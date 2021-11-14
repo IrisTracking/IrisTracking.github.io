@@ -1,5 +1,5 @@
 <style>
-h1 {
+.markdown-body h1 {
     border-bottom: none
 }
 </style>
@@ -8,6 +8,7 @@ h1 {
     <h1 style="text-align:center;"><b>Mobile Tracker</b></h1>
 	<h3 style="text-align:center;">Improving Non-Cooperative Iris Tracking</h3>
 </div>
+
 
 
 ------
