@@ -3,9 +3,7 @@
     border-bottom: none
 }
 .markdown-body h2 {
-    border-bottom: 2px;
-    border-style: solid;
-    border-color: black;
+    border-bottom: 2px solid black;
 
 }
 </style>
