@@ -6,6 +6,16 @@
     border-bottom: 2px solid black;
 
 }
+.markdown-body {
+    border-bottom: 2px solid black;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    box-shadow: 5px 2px 2px grey;
+    background: white;
+}
+body {
+    background: #c1bebe;
+}
 </style>
 <div>
     <br><br><br>
