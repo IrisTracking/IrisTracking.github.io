@@ -3,8 +3,7 @@
     border-bottom: none
 }
 .markdown-body h2 {
-    border-bottom: 2px solid black;
-
+    border-bottom: 2px solid grey;
 }
 .markdown-body {
     border-bottom: 2px solid black;
@@ -17,6 +16,7 @@ body {
     background: #c1bebe;
 }
 </style>
+
 <div>
     <br><br><br>
     <h1 style="text-align:center;"><b>Mobile Tracker</b></h1>
@@ -41,4 +41,10 @@ Mobile Tracker tracks iris boundary from videos.
 
 A dataset for both iris tracking and gaze estimation.
 Coming soon...
+
+<br><br><br><br><br><br><br>
+
+<br>
+
+<br>
 
