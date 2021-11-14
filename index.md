@@ -1,8 +1,14 @@
+<style>
+h1 {
+    border-bottom: none
+}
+</style>
 <div>
-    <br><br><br><br><br><br>
+    <br><br><br>
     <h1 style="text-align:center;"><b>Mobile Tracker</b></h1>
 	<h3 style="text-align:center;">Improving Non-Cooperative Iris Tracking</h3>
 </div>
+
 
 ------
 
@@ -10,7 +16,7 @@
 
 ## **Overview**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mobile Tracker tracks iris boundary from videos.
 
 ## Demo Video
 
