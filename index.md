@@ -3,7 +3,7 @@
     border-bottom: none
 }
 .markdown-body h2 {
-    border-bottom: none
+    border-bottom: 2px
 }
 </style>
 <div>
