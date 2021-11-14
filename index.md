@@ -7,7 +7,7 @@
 
 
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -21,6 +21,7 @@
         <h3></h3>
     </body>
 </html>
+ -->
 
 
 
@@ -28,11 +29,7 @@
 
 
 
-<!-- 
-<center>### Mobile Tracker</center>
-
-
-
+## Mobile Tracker
 #### Improving Non-Cooperative Iris Tracking
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -63,5 +60,5 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### MobileIris Dataset
 
-A dataset for iris tracking and gaze estimation. -->
+A dataset for iris tracking and gaze estimation.
 Coming soon...
