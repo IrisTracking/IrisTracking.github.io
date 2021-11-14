@@ -7,27 +7,6 @@
 
 
 
-<!-- <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Iris Tracking</title>
-    </head>
-    <body>
-        <br><br>
-        <h1 style="text-align:center;">Mobile Tracker</h1>
-        <h2 style="text-align:center;">Improving Non-Cooperative Iris Tracking</h2>
-        <center><iframe width="560" height="315" src="https://www.youtube.com/embed/8KmEk8sQ_QA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-        <h3></h3>
-    </body>
-</html>
- -->
-
-
-
-
-
-
 
 ## Mobile Tracker
 #### Improving Non-Cooperative Iris Tracking
