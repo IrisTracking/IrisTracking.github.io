@@ -1,15 +1,9 @@
+<div>
+    <h1 style="text-align:center;">Mobile Tracker</h1>
+	<h3 style="text-align:center;">Improving Non-Cooperative Iris Tracking</h3>
+</div>
 
-
-
-
-
-
-
-
-
-
-## Mobile Tracker
-#### Improving Non-Cooperative Iris Tracking
+#### Overview
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -33,11 +27,11 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Demo
+## Demo Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8KmEk8sQ_QA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### MobileIris Dataset
+## MobileIris Dataset
 
 A dataset for iris tracking and gaze estimation.
 Coming soon...
