@@ -16,12 +16,12 @@ body {
     background: #c1bebe;
 }
 </style>
-
 <div>
     <br><br><br>
-    <h1 style="text-align:center;"><b>Finding Stars from Fireworks: ImprovingNon-Cooperative Iris Tracking</b></h1>
+    <h1 style="text-align:center;"><b>Finding Stars from Fireworks: Improving <br>Non-Cooperative Iris Tracking</b></h1>
 <!--     <p style="font-size:20px;text-align:center;"><b>Improving Non-Cooperative Iris Tracking</b></p> -->
 </div>
+
 
 
 
@@ -38,9 +38,7 @@ We  revisit  the  problem  of  iris  tracking  with  RGBcameras, which aims to o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mq2oSL2LuAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **MobileIris Dataset**
-
-A dataset for both iris tracking and gaze estimation.
-Coming soon...
+Our new iris tracking dataset MobileIris and the benchmark will be release soon.
 
 <br><br><br><br><br><br><br>
 
