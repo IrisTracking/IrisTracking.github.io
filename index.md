@@ -19,8 +19,8 @@ body {
 
 <div>
     <br><br><br>
-    <h1 style="text-align:center;"><b>Mobile Tracker</b></h1>
-    <p style="font-size:20px;text-align:center;"><b>Improving Non-Cooperative Iris Tracking</b></p>
+    <h1 style="text-align:center;"><b>Finding Stars from Fireworks: ImprovingNon-Cooperative Iris Tracking</b></h1>
+<!--     <p style="font-size:20px;text-align:center;"><b>Improving Non-Cooperative Iris Tracking</b></p> -->
 </div>
 
 
@@ -29,13 +29,13 @@ body {
 
 ## **Overview**
 
-Mobile Tracker tracks iris boundary from videos.
+We  revisit  the  problem  of  iris  tracking  with  RGBcameras, which aims to obtain the iris contours from the capturedeye  images.  We  find  the  reason  that  limits  the  performanceof  the  state-of-the-art  method  in  more  general  non-cooperativeenvironments,  which  prohibits  a  wider  adoption  of  this  usefultechnique in practice. We reason that because the iris boundarycould  be  inherently  unclear  and  blocked,  and  its  pixels  occupyonly  an  extremely  limited  percentage  of  those  on  the  entire  eyeimage,  similar  to  the  stars  hidden  in  fireworks,  we  should  nottreat the boundary pixels as one class to conduct an end-to-endrecognition  directly.  Thus,  we  propose  to  learn  features  fromiris and sclera regions first, and then leverage entropy to sketchthe  thin  and  sharp  iris  boundary  pixels,  where  we  can  tracemore  precise  parameterized  iris  contours.  In  this  work,  we  alsocollect a new data set by smart phone with 22K eye images fromvideo clips. We annotate a subset of 2K images, so that the labelpropagation  can  be  applied  to  enhance  the  system  performancefurther. Extensive experiments over both public and our data setsshow  that  our  method  outperforms  the  state-of-the-art  method.Results  also  indicate  that  our  method  can  improve  the  coarselylabeled data to enhance the iris contour’s accuracy and supportthe  downstream  application  better  than  the  prior  method.
 
 ## Demo Video
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8KmEk8sQ_QA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mq2oSL2LuAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **MobileIris Dataset**
 
