@@ -7,8 +7,8 @@
 }
 .markdown-body {
     border-bottom: 2px solid black;
-    padding-left: 50px !important;
-    padding-right: 50px !important;
+    padding-left: 65px !important;
+    padding-right: 65px !important;
     box-shadow: 5px 2px 2px grey;
     background: white;
 }
@@ -29,7 +29,7 @@ body {
 
 ## **Overview**
 
-In this project, we  revisit  the  problem  of  iris  tracking  with  RGBcameras, which aims to obtain the iris contours from the capturedeye  images.  We  find  the  reason  that  limits  the  performanceof  the  state-of-the-art  method  in  more  general  non-cooperativeenvironments,  which  prohibits  a  wider  adoption  of  this  usefultechnique in practice. We reason that because the iris boundarycould  be  inherently  unclear  and  blocked,  and  its  pixels  occupyonly  an  extremely  limited  percentage  of  those  on  the  entire  eyeimage,  similar  to  the  stars  hidden  in  fireworks,  we  should  nottreat the boundary pixels as one class to conduct an end-to-endrecognition  directly.  Thus,  we  propose  to  learn  features  fromiris and sclera regions first, and then leverage entropy to sketchthe  thin  and  sharp  iris  boundary  pixels,  where  we  can  tracemore  precise  parameterized  iris  contours.  In  this  work,  we  alsocollect a new data set by smart phone with 22K eye images fromvideo clips. We annotate a subset of 2K images, so that the labelpropagation  can  be  applied  to  enhance  the  system  performancefurther. Extensive experiments over both public and our data setsshow  that  our  method  outperforms  the  state-of-the-art  method.Results  also  indicate  that  our  method  can  improve  the  coarselylabeled data to enhance the iris contour’s accuracy and supportthe  downstream  application  better  than  the  prior  method.
+In this project, we revisit the problem of iris tracking with RGB cameras, which aims to obtain the iris contours from the captured eye images. We find the reason that limits the performance of the state-of-the-art method in more general non-cooperative environments, which prohibits a wider adoption of this useful technique in practice. We reason that because the iris boundary could be inherently unclear and blocked, and its pixels occupy only an extremely limited percentage of those on the entire eye image, similar to the stars hidden in fireworks, we should not treat the boundary pixels as one class to conduct an end-to-end recognition directly. Thus, we propose to learn features from iris and sclera regions first, and then leverage entropy to sketch the thin and sharp iris boundary pixels, where we can trace more precise parameterized iris contours. In this work, we also collect a new data set by smart phone with 22K eye images from video clips. We annotate a subset of 2K images, so that the label propagation can be applied to enhance the system performance further. Extensive experiments over both public and our data sets show that our method outperforms the state-of-the-art method. Results also indicate that our method can improve the coarsely labeled data to enhance the iris contour's accuracy and support the downstream application better than the prior method.
 
 ## Demo Video
 
